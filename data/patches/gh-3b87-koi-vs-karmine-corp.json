@@ -1,0 +1,52 @@
+{
+	"id": -1,
+	"name": "KOI vs KARMINE CORP",
+	"description": "KOI is a Spanish esports club led by streamer Ibai, competing with another French esports club called KARMINE CORP, also known as KCORP (KC), led by streamer Kameto.\n\nA long-running battle between the two streamers erupted, followed by a Spanish-American alliance following a French attack on a frog drawn by streamer Mizkif.",
+	"links": {
+		"website": [
+			"https://movistarkoi.gg/",
+			"https://www.karminecorp.fr/?srsltid=AfmBOooXmFuyVhlFGutSgvkjTpACivX61BFDz19fKxt08mPeKa8EL56Z"
+		],
+		"subreddit": [
+			"KarmineCorp"
+		]
+	},
+	"path": {
+		"100-164": [
+			[
+				1,
+				907
+			],
+			[
+				1,
+				907
+			],
+			[
+				0,
+				906
+			],
+			[
+				91,
+				906
+			],
+			[
+				91,
+				999
+			],
+			[
+				0,
+				999
+			],
+			[
+				0,
+				906
+			]
+		]
+	},
+	"center": {
+		"100-164": [
+			46,
+			953
+		]
+	}
+}
